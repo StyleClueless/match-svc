@@ -1,0 +1,15 @@
+# RStudio Project
+^.*\.Rproj$
+^\.Rproj\.user$
+
+# Package License
+^LICENSE\.md$
+
+# Package Data
+^data-raw$
+
+# Plumber API
+^run_init_api\.R$
+
+# Package Manual
+^SCMatchSvc_0.1.0\.pdf$

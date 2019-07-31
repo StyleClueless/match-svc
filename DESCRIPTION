@@ -1,0 +1,14 @@
+Package: SCMatchSvc
+Type: Package
+Title: Matching Service for StyleClueless in R
+Version: 0.1.0
+Author: Riasat Ali Istiaque
+Maintainer: Riasat Ali Istiaque <rai02@u.nus.edu>
+Description: This package houses tools and endpoints for matching clothings by
+    its attributes using R.
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends: R (>= 2.10)
+URL: https://github.com/StyleClueless/match-svc

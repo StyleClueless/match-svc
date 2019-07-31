@@ -1,0 +1,16 @@
+# RStudio Project
+.Rproj.user
+
+# R History
+.Rapp.history
+.Rhistory
+
+# R Session Data
+.RData
+.Ruserdata
+
+# R CMD Build
+.tar.gz
+
+# R CMD Check
+.Rcheck
